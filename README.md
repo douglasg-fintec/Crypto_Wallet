@@ -12,7 +12,7 @@ This project will integrate with the Ethereum blockchain network into the applic
 ![alt text](/Images/transaction_details_on_Etherscan.PNG)
 
 
-## Recipient’s Address Balance And History On
+## Recipient’s Address Balance And History
 
 ![alt text](/Images/recipient’s_address_balance_and_history_on_Etherscan.PNG)
 

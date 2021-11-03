@@ -4,15 +4,15 @@ This project will integrate with the Ethereum blockchain network into the applic
 
 ## Customer Address Balance And History
 
-![alt text](Images\address_balance_and_history_on_Etherscan.PNG)
+![alt text](/Images/address_balance_and_history_on_Etherscan.PNG)
 
 
 ## Transaction Details On Etherscan
 
-![alt text](Images\transaction_details_on_Etherscan.PNG)
+![alt text](/Images/transaction_details_on_Etherscan.PNG)
 
 
 ## Recipient’s Address Balance And History On
 
-![alt text](/Images/PyChain_Multple_Block_Entries_VALIDATED-CHAIN.PNG)
+![alt text](/Images/recipient’s_address_balance_and_history_on_Etherscan.PNG)
 
